@@ -188,6 +188,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/webtoolkit/testdata/uploads/*
-/webtoolkit/testdata/dir1/*
-!/webtoolkit/testdata/uploads/.gitkeep
+/testdata/uploads/*
+/testdata/dir1/
+!/testdata/uploads/.gitkeep
+/v2/testdata/uploads/*
+/v2/testdata/dir1/
+!/v2/

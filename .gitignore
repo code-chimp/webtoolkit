@@ -193,4 +193,4 @@ Temporary Items
 !/testdata/uploads/.gitkeep
 /v2/testdata/uploads/*
 /v2/testdata/dir1/
-!/v2/
+!/v2/testdata/uploads/.gitkeep
